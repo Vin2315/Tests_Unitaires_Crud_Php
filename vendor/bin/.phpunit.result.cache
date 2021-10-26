@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Test\\dao\\TestVoitureDao::testFindAll":3,"Test\\dao\\TestVoitureDao::testfindById":3},"times":{"Test\\dao\\TestVoitureDao::testFindAll":0.075,"Test\\dao\\TestVoitureDao::testfindById":0.007,"Test\\dao\\TestVoitureDao::testUpdateVoiture":0.031,"Test\\dao\\TestVoitureDao::testDeleteVoiture":0.008,"Test\\dao\\TestVoitureDao::testInsertVoiture2":0.013}}
